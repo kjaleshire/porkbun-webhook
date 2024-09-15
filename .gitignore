@@ -17,3 +17,6 @@ cert-manager-webhook-porkbun
 # Make artifacts
 _out
 _test
+
+# Go vendoring
+vendor

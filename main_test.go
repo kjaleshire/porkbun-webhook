@@ -6,7 +6,7 @@ import (
 
 	acmetest "github.com/cert-manager/cert-manager/test/acme"
 
-	"github.com/mdonoughe/cert-manager-porkbun/porkbun"
+	"github.com/kjaleshire/porkbun-webhook/porkbun"
 )
 
 var (
